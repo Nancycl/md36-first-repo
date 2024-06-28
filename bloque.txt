@@ -1,0 +1,7 @@
+-el uso de git nos permite tener a mano todos los cambios que realizamos y mantener una copia segura de los mismos.
+-Nos permite arrojar repositorios de Git en la web, para poder accedeer a ellos desde cualquier dispositivo.
+-Con ello nos permite compartir con más personas nuestra experiencia y proyectos en los que hemos participado.
+Hacer uso del sistema de control de versiones Git.
+Usar GitHub para compartir y sincronizar los repositorios de Git.
+Trabajar en equipo mediante las herramientas que ofrece GitHub.
+Cómo resolver errores comunes al usar Git
